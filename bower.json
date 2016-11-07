@@ -1,0 +1,21 @@
+{
+  "name": "gotham-fonts",
+  "description": "A bower module for Gotham Rounded Font",
+  "main": "index.js",
+  "authors": [
+    "Bogdan Pop"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gotham",
+    "rounded"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

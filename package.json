@@ -1,0 +1,15 @@
+{
+  "name": "gotham-fonts",
+  "version": "1.0.3",
+  "description": "A npm module for Gotham Rounded Font",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gotham",
+    "rounded"
+  ],
+  "author": "Bogdan Pop",
+  "license": "ISC"
+}
